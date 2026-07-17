@@ -203,27 +203,6 @@ Object Pool 대기
 
 배포 페이지에 압축을 해제한 뒤 `LastOutpost.exe`를 실행합니다.
 
-## 저장소 구성
-
-```text
-LastOutpost/
-├─ Config/          # 프로젝트 설정
-├─ Content/         # Blueprint, Map, UI, Animation, Asset
-├─ LastOutpost.uproject
-├─ README.md
-└─ .gitignore
-```
-
-다음과 같은 Unreal Engine 자동 생성 폴더는 저장소에서 제외합니다.
-
-```text
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/
-.vs/
-```
-
 ## 사용 기술
 
 - Unreal Engine 5.7.4
@@ -235,17 +214,3 @@ Saved/
 - Niagara
 - Navigation System
 - Object Pool Pattern
-
-## 개발 과정에서 해결한 주요 문제
-
-- 몬스터 간 충돌로 인한 밀림과 경로 방해
-- 몬스터 오브젝트 풀 재사용 시 체력·AI·충돌 상태 초기화
-- Behavior Tree 공격 범위 판정과 목표 참조 문제
-- 공격 중 목표 방향 회전이 끊기거나 다른 방향을 보는 문제
-- 1인칭 조준 시 캐릭터 머리가 카메라를 가리는 문제
-- 수류탄 예상 궤적과 폭발 범위 시각화
-- WaveManager와 몬스터·UI 사이의 순환 참조 문제
-
-## 프로젝트 목표
-
-이 프로젝트는 Unreal Engine Blueprint만으로 플레이어 전투, 몬스터 AI, 웨이브, 오브젝트 풀, 드론과 지원 공격, UI 및 게임의 시작과 종료 흐름까지 하나의 완성된 게임 구조로 구현하는 것을 목표로 제작했습니다.
