@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="StartImage_1920x1080" src="https://github.com/user-attachments/assets/4dab05c1-89cc-4385-8a56-81655b0d5285" />
+
 # Last Outpost
 
 > 한정된 탄약과 지원 장비를 관리하며 몬스터 웨이브에서 살아남는 싱글플레이 TPS 웨이브 디펜스 게임
