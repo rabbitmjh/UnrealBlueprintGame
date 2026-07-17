@@ -81,6 +81,7 @@
 - 남은 자원을 반영하는 점수 시스템
 
 ## 조작법
+<img width="1672" height="941" alt="PopupImage" src="https://github.com/user-attachments/assets/f6f8ef28-d8a6-429d-a485-b3c8e6c964b1" />
 
 | 입력 | 기능 |
 | --- | --- |
