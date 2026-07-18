@@ -5,11 +5,16 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
 ![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen)
 
-[![게임 다운로드](https://img.shields.io/badge/Download-Last%20Outpost-blue?style=for-the-badge&logo=github)](https://github.com/rabbitmjh/UnrealBlueprintGame/releases/tag/v1.0.0)
-[![YouTube](https://img.shields.io/badge/YouTube-시연_영상-red?style=for-the-badge&logo=youtube)](https://youtu.be/cfYMvVJaAmE)
-> 한정된 탄약과 지원 장비를 관리하며 몬스터 웨이브에서 살아남는 싱글플레이 TPS 웨이브 디펜스 게임
+## 🔗 Links
+
+[![YouTube](https://img.shields.io/badge/GAMEPLAY-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cfYMvVJaAmE)
+[![Release](https://img.shields.io/badge/DOWNLOAD-RELEASE-2EA44F?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+[![Project Overview](https://img.shields.io/badge/PROJECT%20OVERVIEW-PDF-E34F26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Docs/Last_Outpost_Project_Overview.pdf)
+[![Game Manual](https://img.shields.io/badge/GAME%20MANUAL-PDF-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)](./Docs/Last_Outpost_Manual.pdf)
 
 ## 프로젝트 소개
+
+> 한정된 탄약과 지원 장비를 관리하며 몬스터 웨이브에서 살아남는 싱글플레이 TPS 웨이브 디펜스 게임
 
 **Last Outpost**는 이상현상으로 이계와 연결된 지구를 배경으로 하는 3인칭 슈팅 게임입니다.  
 플레이어는 작전 중 고립된 요원이 되어 컨테이너로 구성된 최후의 거점을 방어합니다. 전술 보조 드론과 수류탄, 항공폭격을 활용해 총 5개의 웨이브를 막아내고 끝까지 생존하는 것이 목표입니다.
