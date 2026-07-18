@@ -1,7 +1,12 @@
 <img width="1920" height="1080" alt="StartImage_1920x1080" src="https://github.com/user-attachments/assets/4dab05c1-89cc-4385-8a56-81655b0d5285" />
 
 # Last Outpost
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.7-0E1128?logo=unrealengine)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
+![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen)
 
+[![게임 다운로드](https://img.shields.io/badge/Download-Last%20Outpost-blue?style=for-the-badge&logo=github)](https://github.com/rabbitmjh/UnrealBlueprintGame/releases/tag/v1.0.0)
+[![YouTube](https://img.shields.io/badge/YouTube-시연_영상-red?style=for-the-badge&logo=youtube)](https://youtu.be/cfYMvVJaAmE)
 > 한정된 탄약과 지원 장비를 관리하며 몬스터 웨이브에서 살아남는 싱글플레이 TPS 웨이브 디펜스 게임
 
 ## 프로젝트 소개
