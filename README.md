@@ -6,6 +6,7 @@
 ![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen)
 
 [![게임 다운로드](https://img.shields.io/badge/Download-Last%20Outpost-blue?style=for-the-badge&logo=github)](https://github.com/rabbitmjh/UnrealBlueprintGame/releases/tag/v1.0.0)
+[![YouTube](https://img.shields.io/badge/YouTube-시연_영상-red?style=for-the-badge&logo=youtube)](https://youtu.be/cfYMvVJaAmE)
 > 한정된 탄약과 지원 장비를 관리하며 몬스터 웨이브에서 살아남는 싱글플레이 TPS 웨이브 디펜스 게임
 
 ## 프로젝트 소개
